@@ -10,8 +10,8 @@ GameObject:
   m_Component:
   - component: {fileID: 7448820823963775129}
   - component: {fileID: 2441138385054902842}
-  - component: {fileID: 4815481789672931502}
-  - component: {fileID: 3427368572197446170}
+  - component: {fileID: 5251366793237520812}
+  - component: {fileID: 8937644869208923260}
   m_Layer: 0
   m_Name: Lighting
   m_TagString: Untagged
@@ -99,7 +99,7 @@ Light:
   m_LightUnit: 2
   m_LuxAtDistance: 1
   m_EnableSpotReflector: 1
---- !u!114 &4815481789672931502
+--- !u!114 &5251366793237520812
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -241,7 +241,7 @@ MonoBehaviour:
   m_ObsoleteUseShadowQualitySettings: 0
   m_ObsoleteCustomShadowResolution: 512
   m_ObsoleteContactShadows: 0
---- !u!114 &3427368572197446170
+--- !u!114 &8937644869208923260
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
